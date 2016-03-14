@@ -1,0 +1,90 @@
+Nama		: Bima Setio Pamungkas
+Nim		: 131112748
+Kelas		: TP-A Pagi
+
+Jawaban soal 1 :
+Saya tidak setuju dengan pendapat Alan Turing, karena sebuah mesin tidak dapat meniru pemikiran manusia dikarenakan setiap manusia memiliki pemikiran yang berbeda, walaupun di topic yang sama dengan orang yang berbeda bisa saja jawaban itu berbeda, hal inilah yang harus diadopsi ke mesin agar dapat lulus ter Turing. Inilah yang membuat saya tidak setuju dengan pendapat alan turing. 
+Walaupun suatu hari nanti menurut saya pasti ada computer yang bisa lulus tes Turing. Perlu pengembangan lagi agar dapat memikirkan pemikiran yang berbeda seperti manusia yang satu dengan lainnya. Dikarenakan setiap manusia memiliki pemikiran yang berbeda.
+Banyak halangan untuk lulus di tes Turing ini, seperti masih terbatasnya kemampuan pemikiran manusia, Teknologi yang dibutuhkan, bahasa mesin yang lebih kompleks dan lain-lainnya.
+
+Jawaban Soal 2:
+1.	Pengolahan Bahasa Alami / Natural Language Processing (NLP) merupakan pembuatan program yang akan memiliki kemampuan untuk memahami bahasa manusia. Bentuk utama representasinya adalah berupa ucapan/ lisan dan tulisan, tetapi sering dinyatakan dengan tulisan. Contoh : aplikasi SimSimi. Beberapa bidang AI pada NLP adalah.
+    a.	Natural Language Translator, yaitu translator dari satu bahasa alami ke bahasa alami lainnya, misalnya translator bahasa Inggris ke bahasa Indonesia, Bahasa Indonesia ke Bahasa Jawa dan sebagainya. Translator bahasa alami bukan hanya kamus yang menerjemahkan kata per kata, tetapi harus juga mentranslasikan sintaks dari bahasa asal ke bahasatujuannya.(contoh :google translator, bing translator dll).
+   
+    b.	Translator bahasa alami ke bahasa buatan, yaitu translator yang mengubah perintah-perintah dalam bahasa alami menjadi bahasa buatan yang dapat dieksekusi oleh mesin atau komputer. Sebagai contoh, translator yang memungkinkan kita memberikan perintah bahasa alami kepada komputer. Dengan sistem seperti ini, pengguna sistem dapat memberikan perintah dengan bahasa sehari-hari, misalnya, untuk menghapus semua file, pengguna cukup memberikan perintah ”komputer, tolong hapus semua file !” (contoh : aplikasi SIRI milik Aple)
+   
+    c.	Text Summarization, yaitu suatu sistem yang dapat ”membuat ringkasan” hal-hal yang penting dari suatu wacana yang diberikan.
+
+2.	Knowledge Representation/ pengetahuan Representasi adalah suatu teknik untuk merepresentasikan pengetahuan yang diperoleh kedalam suatu skema atau diagram tertentu sehingga dapat diketahui relasi atau hubungan antara suatu data dengan data yang lain agar dapat menguji kebenaran  penalarannya.
+    a.	Representasi Logika adalah Logika didefinisikan sebagai ilmu untuk berpikir dan menalar dengan benar sehingga didapatkan kesimpulan yang sah. Tujuan dari logika: memberikan aturan-aturan penalaran sehingga orang dapat menentukan apakah suatu kalimat bernilai benar atau salah. (Contoh : aljabar Boolean).
+   
+    b.	Jaringan Semantik adalah teknik representasi dalam artificial intelligence klasik untuk informasi proposional, sehingga sering kali disebut sebagai poporsional network Jaringan semantik merupakan model memori manusia yang dibangun oleh M. R. Quillian sebagai representasi grafis dari informasi proposisional. Informasi proposisional adalah pernyataan yang dapat bernilai benar atau salah. Jaringan semantik ini disajikan dalam bentuk graf berarah.
+  
+    c.	Object-Attribute-Value(OAV) Bentuk object-attribute-value triple dapat digunakan untuk mempresentasikan semua karakteristik pengetahuan dalam semantic net dan digunakan pada sistem pakar MYCIN untuk mendiagnosa penyakit infeksi.
+     
+    d.	Bingkai(Frame) Salah satu tipe skema yang digunakan dalam beberapa aplikasi AI adalah frame. Frame merupakan struktur yang baik untuk mempresentasikan objek yang tipikal dalam situasi tertentu. Karakteristik dasar frame adalah frame mempresentasikan pengetahuan yang terkait mengenai sebuah subjek yang sempit dan memiliki default. Sistem frame adalah pilihan yang baik untuk mendeskripsikan peralatan mekanik seperti mobil. Frame mencoba memodelkan objek yang ada di dunia nyata menggunakan pengetahuan generik untuk atribut yang banyak dimiliki oleh obyek dan pengetahuan spesifik untuk kasus khusus.
+     
+
+
+3.	Automated Reasoning merupakan ilmu yang menjadikan computer untuk menerapkan penalaran logis dalam memecahkan masalah, seperti membuktikan teorema, memcahkan teka teki dll. Autotamed Reasoning merupakan program computer yang membantu dalam memecahkan masalah dan dalam menjawab pertanyaan-pertanyaan membutuhkan penalaraan. Contoh Game Catur.
+  a. Deduksi didefinisikan sebagai: reasoning dari fakta yang sudah diketahui
+  menuju fakta yang belum diketahui, dari hal-hal umum menuju ke hal-hal
+  spesifik, dari premis menuju ke kesimpulan logis. 
+  
+  b. Abduksi adalah metoda reasoning yang sering dipakai untuk memberikan/menghasilkan
+    penjelasan terhadap fakta. Berbeda dengan metoda deduksi, pada metoda ini tidak ada jaminan bahwa kesimpulan yang didapat selalu benar. Sebagai
+    contoh, sebuah aturan seperti pada contoh terdahulu dituliskan
+    sebagai berikut:
+      ∀ X, [rajin-belajar(X) → jadi-sarjana(X)]
+      Misalkan didapati bahwa Alex telah diwisuda, maka bentuk predicate
+      calculus nya adalah:
+      jadi-sarjana(alex)
+      Dengan menggunakan abduksi dapat disimpulkan bahwa:
+      rajin-belajar(alex)
+      Tetapi tidak ada jaminan bahwa kesimpulan tersebut benar. Menjadi
+      sarjana tidak selalu berarti rajin belajar.
+      
+  c. Induksi berarti proses reasoning dari fakta-fakta khusus atau kasus-kasus
+     individual menuju ke kesimpulan secara general. Sebagai contoh:
+     P(a) adalah benar
+     P(b) adalah benar
+     maka dengan induksi dapat disimpulkan bahwa:
+     ∀ X, P(X) adalah benar
+
+4.	Machine Learning adalah sebuah studi yang mempelajari cara untuk memprogram sebuah computer untuk belajar. Manfaat Machine Learning dalam kehidupan sehari-hari yaitu speech recognition, fingerprint recognition atau handwriting recognition. Ataupun yang paling canggih saat ini adlah robot cerdas buatan Honda ASIMO. Dengan beberapa teknik AI diaplikasikan kedalamnya, seperti speech recognition untuk dapat berinteraksi, image recognition untuk dapat mengenali wajah pemiliknya dan mengenali ruangan dan banyak lagi.	
+Algoritma machine learning dapat diatur dalam taksonomi berdasarkan hasil yang diinginkandari algoritma, antara lain:
+  •	Learning Associations: Menemukan hubungan antar data. Contohnya analisis kantong  belanja.
+     P (Y|X) kemungkinan seseorang yang membeli barang X juga membeli barang Y dengan Xdan Y adalah produk atau servis. 
+  •	Supervised learning : Kita dapat mempelajari sebuah pemetaan data dari input ke output. Hasil nilai yang benar telah diberikan dari supervisor . Tipe pembelajarannya:
+    •	Klasifikasi
+    •	Regresi
+  •	Unsupervised learning : Kita hanya mempunyai input data untuk menemukan regularitasdalam data, tanpa output (kita tidak tahu jawaban yang benar). Clustering: pengelompokan kasus yang sama. Contoh aplikasi:
+    Segmentasi customer di CRM (Customer Relationship Management )
+    •	Image compression
+    •	Bioinformatics
+  •	Reinforcement learning : proses ini mempelajari bagaimana pengalaman memecahkan suatu permasalahan.
+
+
+5.	Computer Vision merupakan bagian dari Artificial Intelligence. Intinya tentang bagaimana sebuah mesin “belajar” dan mengenali bahasa manusia. Proses di dalamnya melibatkan rumus-rumus yang rumit dan juga proses trial and error dari banyak pihak. Ilmu ini berkembang pesat, dan nampaknya di Indonesia juga semakin banyak yang tertarik dengan dunia ini.
+Computer Vision didefinisikan sebagai salah satu cabang ilmu pengetahuan yang mempelajari bagaimana komputer dapat mengenali obyek yang diamati. Cabang ilmu ini bersama Artificial Intelligence akan mampu menghasilkanVisual Intelligence System. Perbedaannya adalah Computer Vision lebih mempelajari bagaimana komputer dapat mengenali obyek yang diamati. Contohnya adalah deteksi tentara musuh atau kendaraan dan bimbingan rudal. Sistem lebih canggih untuk panduan mengirim rudal-rudal ke daerah daripada target yang spesifik dan pemilihan target yang dibuat ketika rudal mencapai daerah berdasarkan data citra diperoleh secara lokal.
+a.	Image Acqusition merupakan proses menerjarmahkan suatu citra atau bentuk sebuah objek dari benda yang mana informasi yang diterima melalui mata tersebut diterjemahkan oleh otak, maka komputer disini memiliki kamera untuk menangkap sebuah objek kemudian kamera  tersbut menerjemahkan sebuah scene atau image dan dengan bantuan sinyal listrik di ubah mejadi bilangan biner yang akan digunakan oleh komputer. (contoh: SCAN pada kedokteran).
+b.	Image Processing merupakan Image processing membantu peningkatan dan perbaikan kualitas image, sehingga dapat dianalisa dan di olah lebih jauh secara lebih efisien dengan  meningkatkan perbandingan informasi pada objek gambar terhadap segala bentuk interferensi pengaburan, yang terjadi pada sebuah objek.
+c.	Image Analisis merupakan untuk mencari batasan objek dalam image dengan mengidenfikasi kareteristik gambar untuk mendapat suatu informasi.
+d.	Image Understanding merupakan melibatkan kajian tentang teknik‐teknik artificial intelligent. denagn template matching yang ada dalam sebuah scene atau gambar. Metoda ini menggunakan program pencarian (search program)dan teknik penyesuaian pola (pattern matching techniques).     
+
+
+6.	Istilah robot berawal bahasa Cheko robota yang berarti pekerja yang tidak mengenal lelah atau bosan. Sedangkan secara terminologi, arti yang paling tepat dengan istilah robot mengandung pengertian System atau alat yang digunakan untuk menggantikan kinerja manusia secara otomatis. Robot yang dibuat manusia tidak boleh bertentangan dengan Laws of Robotics yang dikemukakan oleh Isaac Asimov. Di kalangan umum pengertian robot selalu dikaitkan dengan “makhluk hidup” berbentuk orang maupun binatang yang terbuat dari logam dan bertenaga listrik (mesin). Sementara itu dalam arti luas robot Adalah suatu alat yang dalam batas-batas tertentu dapat bekerja sendiri (otomatis) sesuai dengan perintah yang sudah diberikan oleh perancangnya. Dengan pengertian ini sangat erat hubungan antara robot dan otomatisasi sehingga dapat dipahami bahwa hampir setiap aktivitas kehidupan modern makin tergantung pada robot. Berikut jenis-jenis robot sekarang ini dan masih banyak lagi.
+1. Robot Mobile
+Robot Mobil atau Mobile Robot adalah konstruksi robot yang ciri khasnya adalah mempunyai aktuator berupa roda untuk menggerakkan keseluruhan badan robot tersebut, sehingga robot tersebut dapat melakukan perpindahan posisi dari satu titik ke titik yang lain. Robot mobil ini sangat disukai bagi orang yang mulai mempelajari robot. Hal ini karena membuat robot mobil tidak memerlukan kerja fisik yang berat. Untuk dapat membuat sebuah robot mobile minimal diperlukan pengetahuan tentang mikrokontroler dan sensor-sensor elektronik.Base robot mobil dapat dengan mudah dibuat dengan menggunakan plywood /triplek, akrilik sampai menggunakan logam ( aluminium ). Robot mobil dapat dibuat sebagai pengikut garis ( Line Follower ) atau pengikut dinding ( Wall Follower ) ataupun pengikut cahaya.
+
+2. Robot jaringan
+Robot jaringan adalah pendekatan baru untuk melakukan kontrol robot menggunakan jaringan internet dengan protokol TCP/IP. Perkembangan robot jaringan dipicu oleh kemajuan jaringan dan internet yang pesat. Dengan koneksi jaringan, proses kontrol dan monitoring, termasuk akuisisi data bila ada, seluruhnya dilakukan melalui jaringan. Keuntungan lain, koneksi ini bisa dilakukan secara nirkabel.Di Indonesia, pengembang robot jaringan belum banyak, meski pengembang dan komunitas robot secara umum sudah banyak. Hal ini disebabkan tuntutan teknis yang jauh lebih kompleks. Salah satu robot jaringan yang sudah berhasil dikembangkan adalah LIPI Wireless Robot (LWR) yang dikembangkan oleh Grup Fisika Teoritik dan Komputasi– GFTK LIPI.Seperti ditunjukkan di LWR, seluruh proses kontrol dan monitoring bisa dilakukan melalui perambah internet. Lebih jauh, seluruh sistem dan protokol yang dikembangkan untuk LWR ini telah dibuka sebagai open-source dengan lisensi GNU Public License (GPL) di SourceForge dengan nama openNR.
+
+3. Robot Manipulator ( tangan )
+Robot ini hanyak memiliki satu tangan seperti tangan manusia yang fungsinya untuk memegang atau memindahkan barang, contoh robot ini adalah robot las di Industri mobil, robot merakit elektronik dll.
+
+4. Robot Humanoid
+Robot yang memiliki kemampuan menyerupai manusia, baik fungsi maupun cara bertindak, contoh robot ini adalah Ashimo yang dikembangkan oleh Honda. Robot adalah sebuah alat mekanik yang dapat melakukan tugas fisik, baik menggunakan pengawasan dan kontrol manusia, ataupun menggunakan program yang telah didefinisikan terlebih dulu (kecerdasan buatan). Robot biasanya digunakan untuk tugas yang berat, berbahaya, pekerjaan yang berulang dan kotor. Biasanya kebanyakan robot industri digunakan dalam bidang produksi. Penggunaan robot lainnya termasuk untuk pembersihan limbah beracun, penjelajahan bawah air dan luar angkasa, pertambangan, pekerjaan “cari dan tolong” (search and rescue), dan untuk pencarian tambang. Belakangan ini robot mulai memasuki pasaran konsumen di bidang hiburan, dan alat pembantu rumah tangga, seperti penyedot debu, dan pemotong rumput.
+
+
+NB: Dikutip dari berbagai sumber di Internet.
